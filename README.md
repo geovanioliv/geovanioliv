@@ -1,6 +1,10 @@
 <!DOCTYPE HTML>
 
- 
+<h1>
+ <center><i>Olá, me chamo Geovani.</i></center>
+Estou aprendendo atualmente HTML, Javascript e C.
+ </h1>
+   
    <a href="https://github.com/geovanioliv">
 <img src="https://i.imgur.com/gk9Zyz0.png" width="100" height="100">
     </a>
