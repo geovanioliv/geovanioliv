@@ -12,7 +12,7 @@ Estou aprendendo atualmente HTML, Javascript e C.
    
    <a href="https://www.linkedin.com/in/geovani-oliveira-a7b88b248/">
     <img src="https://i0.wp.com/lh3.googleusercontent.com/-lU0hEES7jMM/YYEceNR9HsI/AAAAAAAAvLU/mKH2qhRjD0E1SXdCETthzWehs-Xck-r9ACLcBGAsYHQ/s16000/image.png?ssl=1" width="80" height="80"></a>
-     <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-will-provide-official-verification-esports-team-4.png" width="80" height="80">
+   
  </h2>
   </body>
     
